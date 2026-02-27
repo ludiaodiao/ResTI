@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "ReSTI (RepMTCN-style) Middle-Gap Time-Series Reconstruction"
+authors:
+  - family-names: "Lu"
+    given-names: "Yuanming"
+version: 0.1.0
+date-released: 2026-02-27
+license: MIT
+repository-code: "https://github.com/<YOUR_GITHUB_USERNAME>/<REPO_NAME>"
